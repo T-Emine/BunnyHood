@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Thu May 31 21:19:32 CEST 2018
+2.base=C\:\\Users\\emino\\Desktop\\A REMETTRE\\BunnyHood-master\\BunnyHood-master\\android\\build\\intermediates\\assets\\debug
+0.path=map1.png
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\emino\\Desktop\\A REMETTRE\\BunnyHood-master\\BunnyHood-master\\android\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=hero.png
+4.base=C\:\\Users\\emino\\Desktop\\A REMETTRE\\BunnyHood-master\\BunnyHood-master\\android\\build\\intermediates\\assets\\debug
+count=5
+2.path=lapin.png
+4.set=ASSET
+3.path=tavern.jpg
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=wolf.png
+1.baseType=DIRECTORY
+0.base=C\:\\Users\\emino\\Desktop\\A REMETTRE\\BunnyHood-master\\BunnyHood-master\\android\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=C\:\\Users\\emino\\Desktop\\A REMETTRE\\BunnyHood-master\\BunnyHood-master\\android\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET
